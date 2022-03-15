@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\bin\Debug\netcoreapp3.1\String.Builder.Type.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\bin\Debug\netcoreapp3.1\String.Builder.Type.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\bin\Debug\netcoreapp3.1\String.Builder.Type.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\bin\Debug\netcoreapp3.1\String.Builder.Type.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\bin\Debug\netcoreapp3.1\String.Builder.Type.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\bin\Debug\netcoreapp3.1\String.Builder.Type.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Builder.Type\String.Builder.Type\obj\Debug\netcoreapp3.1\String.Builder.Type.genruntimeconfig.cache
