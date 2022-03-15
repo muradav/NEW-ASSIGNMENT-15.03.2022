@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\bin\Debug\netcoreapp3.1\String.Replace.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\bin\Debug\netcoreapp3.1\String.Replace.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\bin\Debug\netcoreapp3.1\String.Replace.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\bin\Debug\netcoreapp3.1\String.Replace.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\bin\Debug\netcoreapp3.1\String.Replace.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\bin\Debug\netcoreapp3.1\String.Replace.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Replace\String.Replace\obj\Debug\netcoreapp3.1\String.Replace.genruntimeconfig.cache

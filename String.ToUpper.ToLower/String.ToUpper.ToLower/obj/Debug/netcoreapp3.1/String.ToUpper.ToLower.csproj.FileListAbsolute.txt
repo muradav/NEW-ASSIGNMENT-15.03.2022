@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\bin\Debug\netcoreapp3.1\String.ToUpper.ToLower.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\bin\Debug\netcoreapp3.1\String.ToUpper.ToLower.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\bin\Debug\netcoreapp3.1\String.ToUpper.ToLower.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\bin\Debug\netcoreapp3.1\String.ToUpper.ToLower.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\bin\Debug\netcoreapp3.1\String.ToUpper.ToLower.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\bin\Debug\netcoreapp3.1\String.ToUpper.ToLower.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.ToUpper.ToLower\String.ToUpper.ToLower\obj\Debug\netcoreapp3.1\String.ToUpper.ToLower.genruntimeconfig.cache

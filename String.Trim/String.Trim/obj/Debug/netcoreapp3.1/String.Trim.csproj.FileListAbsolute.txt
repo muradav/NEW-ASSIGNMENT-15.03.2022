@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\bin\Debug\netcoreapp3.1\String.Trim.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\bin\Debug\netcoreapp3.1\String.Trim.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\bin\Debug\netcoreapp3.1\String.Trim.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\bin\Debug\netcoreapp3.1\String.Trim.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\bin\Debug\netcoreapp3.1\String.Trim.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\bin\Debug\netcoreapp3.1\String.Trim.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\String.Trim\String.Trim\obj\Debug\netcoreapp3.1\String.Trim.genruntimeconfig.cache

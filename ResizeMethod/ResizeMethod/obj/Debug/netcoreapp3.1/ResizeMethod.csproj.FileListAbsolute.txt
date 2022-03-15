@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\bin\Debug\netcoreapp3.1\ResizeMethod.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\bin\Debug\netcoreapp3.1\ResizeMethod.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\bin\Debug\netcoreapp3.1\ResizeMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\bin\Debug\netcoreapp3.1\ResizeMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\bin\Debug\netcoreapp3.1\ResizeMethod.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\bin\Debug\netcoreapp3.1\ResizeMethod.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\ResizeMethod\ResizeMethod\obj\Debug\netcoreapp3.1\ResizeMethod.genruntimeconfig.cache

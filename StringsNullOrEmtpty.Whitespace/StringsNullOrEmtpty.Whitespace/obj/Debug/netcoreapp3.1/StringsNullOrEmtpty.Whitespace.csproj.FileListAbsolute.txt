@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\bin\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\bin\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\bin\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\bin\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\bin\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\bin\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\StringsNullOrEmtpty.Whitespace\StringsNullOrEmtpty.Whitespace\obj\Debug\netcoreapp3.1\StringsNullOrEmtpty.Whitespace.genruntimeconfig.cache

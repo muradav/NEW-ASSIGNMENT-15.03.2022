@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IndexOfMethod/1.0.0": {
+        "runtime": {
+          "IndexOfMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndexOfMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\bin\Debug\netcoreapp3.1\IndexOfMethod.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\bin\Debug\netcoreapp3.1\IndexOfMethod.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\bin\Debug\netcoreapp3.1\IndexOfMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\bin\Debug\netcoreapp3.1\IndexOfMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\bin\Debug\netcoreapp3.1\IndexOfMethod.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\bin\Debug\netcoreapp3.1\IndexOfMethod.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\obj\Debug\netcoreapp3.1\IndexOfMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\obj\Debug\netcoreapp3.1\IndexOfMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\obj\Debug\netcoreapp3.1\IndexOfMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\obj\Debug\netcoreapp3.1\IndexOfMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\obj\Debug\netcoreapp3.1\IndexOfMethod.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\obj\Debug\netcoreapp3.1\IndexOfMethod.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\IndexOfMethod\IndexOfMethod\obj\Debug\netcoreapp3.1\IndexOfMethod.genruntimeconfig.cache

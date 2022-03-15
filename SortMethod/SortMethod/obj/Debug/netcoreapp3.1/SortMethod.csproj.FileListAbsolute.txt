@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\bin\Debug\netcoreapp3.1\SortMethod.exe
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\bin\Debug\netcoreapp3.1\SortMethod.deps.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\bin\Debug\netcoreapp3.1\SortMethod.runtimeconfig.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\bin\Debug\netcoreapp3.1\SortMethod.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\bin\Debug\netcoreapp3.1\SortMethod.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\bin\Debug\netcoreapp3.1\SortMethod.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\obj\Debug\netcoreapp3.1\SortMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\obj\Debug\netcoreapp3.1\SortMethod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\obj\Debug\netcoreapp3.1\SortMethod.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\obj\Debug\netcoreapp3.1\SortMethod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\obj\Debug\netcoreapp3.1\SortMethod.dll
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\obj\Debug\netcoreapp3.1\SortMethod.pdb
+C:\Users\HP\Desktop\Development\NEW-ASSIGNMENT-15.03.2022\SortMethod\SortMethod\obj\Debug\netcoreapp3.1\SortMethod.genruntimeconfig.cache
